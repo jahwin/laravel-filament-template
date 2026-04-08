@@ -1,0 +1,74 @@
+{
+  "resources/assets/images/icons/arrow_back.svg": {
+    "file": "assets/arrow_back-BLill5XH.svg",
+    "src": "resources/assets/images/icons/arrow_back.svg"
+  },
+  "resources/assets/images/icons/arrow_back_blue.svg": {
+    "file": "assets/arrow_back_blue-D5ceQv7-.svg",
+    "src": "resources/assets/images/icons/arrow_back_blue.svg"
+  },
+  "resources/assets/images/icons/arrow_forward.svg": {
+    "file": "assets/arrow_forward-BMXzQ5i_.svg",
+    "src": "resources/assets/images/icons/arrow_forward.svg"
+  },
+  "resources/assets/images/icons/arrow_forward_blue.svg": {
+    "file": "assets/arrow_forward_blue-DtR2VvaQ.svg",
+    "src": "resources/assets/images/icons/arrow_forward_blue.svg"
+  },
+  "resources/assets/images/icons/mission.svg": {
+    "file": "assets/mission-1DIJ1nI_.svg",
+    "src": "resources/assets/images/icons/mission.svg"
+  },
+  "resources/assets/images/icons/not-found.svg": {
+    "file": "assets/not-found-ysjcjmUX.svg",
+    "src": "resources/assets/images/icons/not-found.svg"
+  },
+  "resources/assets/images/icons/vision.svg": {
+    "file": "assets/vision-c263FG3k.svg",
+    "src": "resources/assets/images/icons/vision.svg"
+  },
+  "resources/assets/images/logo.svg": {
+    "file": "assets/logo-I54FBnoz.svg",
+    "src": "resources/assets/images/logo.svg"
+  },
+  "resources/assets/images/social/facebook.svg": {
+    "file": "assets/facebook-BekFfcXS.svg",
+    "src": "resources/assets/images/social/facebook.svg"
+  },
+  "resources/assets/images/social/linkedin.svg": {
+    "file": "assets/linkedin-Dx8LpnQU.svg",
+    "src": "resources/assets/images/social/linkedin.svg"
+  },
+  "resources/assets/images/social/twitter.svg": {
+    "file": "assets/twitter-Da4KAbaO.svg",
+    "src": "resources/assets/images/social/twitter.svg"
+  },
+  "resources/css/app.css": {
+    "file": "assets/app-l0sNRNKZ.js",
+    "name": "app",
+    "src": "resources/css/app.css",
+    "isEntry": true
+  },
+  "resources/js/app.js": {
+    "file": "assets/app-DFOUC8Bc.js",
+    "name": "app",
+    "src": "resources/js/app.js",
+    "isEntry": true,
+    "css": [
+      "assets/app-C-3WyUge.css"
+    ],
+    "assets": [
+      "assets/not-found-ysjcjmUX.svg",
+      "assets/mission-1DIJ1nI_.svg",
+      "assets/vision-c263FG3k.svg",
+      "assets/arrow_back-BLill5XH.svg",
+      "assets/arrow_forward-BMXzQ5i_.svg",
+      "assets/arrow_back_blue-D5ceQv7-.svg",
+      "assets/arrow_forward_blue-DtR2VvaQ.svg",
+      "assets/logo-I54FBnoz.svg",
+      "assets/linkedin-Dx8LpnQU.svg",
+      "assets/twitter-Da4KAbaO.svg",
+      "assets/facebook-BekFfcXS.svg"
+    ]
+  }
+}
